@@ -86,3 +86,5 @@ Ahora desplegamos la aplicación en heroku
 También podemos agregar más películas y mostrarlas
 
 ![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image22.png)
+
+El proyecto desplegado está en https://thawing-fjord-84712-2c2d0034563e.herokuapp.com/movies
