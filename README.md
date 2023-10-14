@@ -72,19 +72,19 @@ Ahora para crear el controlador usamos el siguiente comando ‘rails g scaffold_
 
 Actualizamos las dependencias
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image21.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image19.png)
 
 Y vemos que ya corre localmente
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image20.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image22.png)
 
 Finalmente conectamos a postgresql para poder correr la aplicación en producción.
 Ahora desplegamos la aplicación en heroku
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image19.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image21.png)
 
 También podemos agregar más películas y mostrarlas
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image22.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image20.png)
 
 El proyecto desplegado está en https://thawing-fjord-84712-2c2d0034563e.herokuapp.com/movies
