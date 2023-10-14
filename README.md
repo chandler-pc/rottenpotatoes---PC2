@@ -72,7 +72,7 @@ Ahora para crear el controlador usamos el siguiente comando ‘rails g scaffold_
 
 Actualizamos las dependencias
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image19.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image21.png)
 
 Y vemos que ya corre localmente
 
@@ -81,7 +81,7 @@ Y vemos que ya corre localmente
 Finalmente conectamos a postgresql para poder correr la aplicación en producción.
 Ahora desplegamos la aplicación en heroku
 
-![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image21.png)
+![img](https://github.com/chandler-pc/rottenpotatoes---PC2/blob/main/images/image19.png)
 
 También podemos agregar más películas y mostrarlas
 
